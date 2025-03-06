@@ -31,7 +31,7 @@
 
 
 <body>
-
+<?php echo date("Y-m-d") ?>
 
 <table width="70%" >
 
@@ -83,7 +83,7 @@
 			</td>
 		</tr>
 </table>
-<?php echo date("Y-m-d") ?>
+
 
 </body>
 
